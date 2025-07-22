@@ -3,212 +3,156 @@ video_id: pgG341YQHXQ
 url: https://youtu.be/pgG341YQHXQ
 title: "ESPAÑA PULVERIZA a WALL STREET  @elinformek"
 slug: "españa-pulveriza-a-wall-street-elinformek"
-saved: 2025-07-22T18:50:13Z
+saved: 2025-07-22T18:55:37Z
 model: mistral:latest
 tags: [youtube, transcript]
 ---
 
 
-**Título:** ¿Qué esperar de las compañías Zara Group y Tubacex en 2027?
+## Analysis of Inditex and Tubacex for Potential Investors
 
-   **Tipo de contenido:** Artículo de inversión
+In this analysis, we will be looking at two companies that may interest potential investors: the first example is Inditex, a leading company in the textile sector operating in over 200 markets; and the second case is Tubacex, specialized in the manufacturing of stainless steel tubes without welding and high-value-added alloys for critical sectors such as energy, petrochemical, and aerospace.
 
-   **Fuente:** Canal dedicado a la inversión
+### Key Metrics
 
-   **Perfil del locutor:** Inversor de bienes raíces y analista financiero
+| Metric | Value | Context |
+|---|---|---|
+| Inflation | 4.82% | For the year 2022 in Spain |
+| Inditex Annual Revenue (2002) | €3,000 |  |
+| Inditex Annual Revenue (2024) | €38,600 |  |
+| Inditex Operating Profit (2002) | €500 |  |
+| Inditex Operating Profit (2024) | €7,600 |  |
+| Inditex Earnings per Share (estimated) | N/A | If the company meets its growth projections, it is not unreasonable to expect an annual return of over 10% |
+| Tubacex Operating Profit (2016) | - | Losses incurred by the company in 2016 |
+| Tubacex Operating Profit (2024) | > €60 million |  |
+| Tubacex Orders (projected growth until 2025) | > €1,600,000,000 | Anticipated to improve sales by 30% |
+| Tubacex Earnings per Share (estimated 2027) | €0.50 | Expected to reach €0.50 in 2027, given that the current share price is approximately €3.70, implying a multiple of more than seven times earnings |
 
-   **Etiquetas temáticas:** Economía, Finanzas, Inversión, Empresas españolas, Industria textil y fabricación de tubos sin soldadura
+### Key Insights
+1. Inditex is a leading company in the textile sector with a certain brand prestige.
+2. The company Inditex has experienced significant growth since 2002 to 2024, with annual revenues increasing from €3,000 to over €38,600 million.
+3. Tubacex is a specialized company in the manufacturing of stainless steel tubes without welding that has tripled its share price over the past five years.
+4. The fracking process has played a significant role in transforming Tubacex's business, generating more than €60 million in operating profit and causing its share price to triple over the past five years.
+5. Tubacex appears to be in an excellent position. However, this is only an approximation of two cases that we will discuss in greater detail later in this channel.
 
-   | Parámetro                        | Valor                              |
-   |-------------------------------|----------------------------------|
-   | Título                         | ¿Qué esperar de las compañías Zara Group y Tubacex en 2027? |
-   | Tipo de contenido               | Artículo de inversión             |
-   | Fuente                          | Canal dedicado a la inversión    |
-   | Perfil del locutor              | Inversor de bienes raíces y analista financiero  |
-   | Etiquetas temáticas                | Economía, Finanzas, Inversión, Empresas españolas, Industria textil y fabricación de tubos sin soldadura |
-
-   **Resumen:** El orador presenta dos compañías potencialmente atractivas para los grandes inversores: una empresa textil liderada por la familia Ortega y Tubacex, especializada en la fabricación de tubos sin soldadura. La primera ha experimentado un gran crecimiento económico desde 2002, con ingresos aumentados de 3,000 a más de 38,600 millones de euros y beneficios operativos de 500 millones en 2002 a 7,600 millones en 2024. La compañía opera con márgenes altísimos y no tiene deuda. Por otro lado, Tubacex ha especializado en la fabricación de tubos sin soldadura de acero inoxidable y aleaciones de alto valor añadido para sectores críticos como el energético, el petroquímico y el aeroespacial. En 2016, la compañía arrastraba pérdidas estructurales, pero hoy genera más de 60 millones de euros de beneficio operativo. La empresa tiene un objetivo anunciado de aumentar su Bidda hasta los 200,000 millones en 2027 y se espera que su beneficio por acción toque los 50 céntimos, lo que supondría un múltiplo de siete veces beneficios si las cosas salen como parece que van a salir.
-
-   **Citas destacadas:**
-
-   - "La compañía va francamente bien."
-   - "En España las vemos como marcas, como decirlo, del día a día, pero lo cierto es que en muchos mercados su percepción es completamente distinta. Están incluso cerca de lo que podríamos definir como lujo aspiracional."
-   - "Hablamos de un margen bruto del 56% y un margen operativo del 19,7, que la verdad no son disparatadas."
-   - "Si las cosas salen como parece que van a salir gracias, insisto, a esos pedidos que ya se han materializado, se espera que en 2027 su beneficio por acción toque los 50 céntimos."
-
-   **Conceptos destacados:** Crecimiento económico de las compañías textil y fabricación de tubos sin soldadura. Importancia del apellido Ortega en el sector textil. Percepción diferente de la empresa Zara en distintos mercados. Mármgenes bruto y operativo altísimos de las compañías. Objetivo anunciado de aumentar la Bidda de Tubacex hasta los 200,000 millones en 2027.
+### Concepts / Key Moments
+- Inditex: a leading textile company with growing revenues and profits
+- Tubacex: a specialized stainless steel tube manufacturer that has tripled its share price over the past five years due to fracking
+- Fracking: a process for extracting natural gas by hydraulically fracturing rock
 
 ## Análisis Estructurado del Contenido
 
 ### Fragmento 1
 ## 🧠 Ideas Principales
-- El dinero inteligente comenzó a posicionarse en España debido a las tensiones comerciales, la inflación persistente y tipos más altos que hicieron de ella un refugio para los grandes capitales.
-- La bolsa española ha sido más rentable que el índice SP500 durante los últimos cinco años.
-- España se ha convertido en una de las estrellas de los mercados financieros.
+   - El Ibex 35 se ha vuelto más rentable que el SP500 en los últimos cinco años.
+   - El capital inteligente comenzó a posicionarse en valores españoles cuando se produjeron problemas económicos y políticos.
+   - Las empresas españolas reparten un montón de dividendos, lo que contribuye a su rentabilidad.
 
-## 🔑 Palabras Clave
-- Dinero inteligente
-- Tensiones comerciales
-- Inflación persistente
-- Tipos más altos
-- Refugio para los grandes capitales
-- Bolsa española
-- Rentabilidad
-- Mercados financieros
-- España
-- Ibex 35
-- SP500
+   ## 🔑 Palabras Clave
+   - Ibex 35
+   - SP500
+   - Mercado español
+   - Capital inteligente
+   - Dividendos
 
-## 💬 Citas Destacadas
-> “Si hablamos de la bolsa americana, el mercado español también ha batido por mucho a los principales índices europeos.”
-> “En otros palabras, que si hace 5 años hubieras tenido que invertir un dinero en bolsa, aunque te resulte increíble, España hubiera sido mucho mejor opción que Estados Unidos.”
-> “La pregunta lógicamente es, ¿qué demonios ha pasado? ¿Cómo es esto posible?”
+   ## 💬 Citas Destacadas
+   > "En los últimos 5 años el IBES 35, el principal índice de la bolsa de Madrid, se ha zampado al mismo SP500."
+   > "En este caso, con una rentabilidad de más del 90%, no solo ha batido por muchísimo al SP500 por casi 40 puntos, sino que se ha situado como uno de los mejores índices de todo el planeta."
+   > "Bruselas expedienta a España por la actuación del gobierno en la OPA de BBVA a Sabadel."
 
-## 🔢 Datos Numéricos
-| Métrica | Valor | Unidad | Contexto |
-|---------|-------|--------|----------|
-| Rentabilidad del Ibex 35 en euros y teniendo en cuenta los dividendos | 120% | % | Durante menos de 2 años y medio |
+   ## 🔢 Datos Numéricos
+   | Métrica | Valor | Unidad | Contexto |
+   |---------|-------|--------|----------|
+   | Rentabilidad Ibex 35 (5 años) | 20 puntos | % | En euros y teniendo en cuenta los dividendos, ha sido 20 puntos más rentable que el índice norteamericano en los últimos 5 años. |
+   | Rentabilidad Ibex 35 (12 meses) | 90% | % | Entre septiembre de 2022 y junio de 2025, el Ivex 35 casi duplicó su valor, con una rentabilidad de más del 90%. |
+   | Rentabilidad Ibex 35 (2 años y medio) | 120% | % | En poco más de 2 años y medio, la rentabilidad ha sido de en torno al 120%, con una recuperación sencilla y brutal. |
 
-## 🎯 Momentos Destacados
-- El dinero inteligente comenzó a posicionarse en España.
-- España se ha convertido en una de las estrellas de los mercados financieros.
+   ## 🎯 Momentos Destacados
+   - El capital inteligente se posicionó en valores españoles durante los problemas económicos y políticos.
+   - La rentabilidad del Ibex 35 ha sido superior al SP500 en los últimos cinco años.
+   - Las empresas españolas reparten un montón de dividendos, lo que contribuye a su rendimiento.
 
-## 📈 Nivel de Profundidad
-- **Nivel:** Avanzado
-- **Motivo:** La explicación del por qué el dinero inteligente comenzó a posicionarse en España y cómo España se convirtió en una de las estrellas de los mercados financieros requiere conocimiento avanzado sobre economía, política económica y mercados financieros.
+   ## 📈 Nivel de Profundidad
+   - **Nivel:** Básico
+   - **Motivo (≤ 30 palabras):** El vídeo analiza la rentabilidad del mercado español en comparación con otros mercados financieros.
 
-## 🏷️ Sesgo o Perfil
-- Etiqueta: Inversor de capitales
-+ evidencia breve: El vídeo analiza la bolsa española y su rentabilidad en los últimos cinco años, lo que demuestra el interés del locutor por las inversiones.
+   ## 🏷️ Sesgo o Perfil
+   - Etiqueta: Economista de negocios (evidencia breve: el locutor analiza el mercado de valores y la rentabilidad de las empresas españolas)
 
-## 🔄 Red de Interacciones
-- **Personajes principales:** Dinero inteligente, grandes capitales
-- **Relaciones clave:** Posicionamiento en España
-- **Dinámica de interacción:** Análisis de la rentabilidad del Ibex 35 y comparación con el SP500 y otros índices europeos.
-
-## 🏛️ Autoridad y Credibilidad
-- **Credenciales mencionadas:** No se presentan credenciales específicas en el fragmento.
-- **Referencias externas:** No se presentan referencias externas en el fragmento.
-- **Nivel de fundamentación:** Bajo (basado en evidencias presentadas)
-
-## 🌍 Impacto y Repercusiones
-- **Ámbito de influencia:** Financiero
-- **Actores afectados:** Inversores, grandes capitales
-- **Posibles consecuencias:** Atractivo para los inversores y aumento de la rentabilidad en el mercado español.
-
-## 📈 Tendencias y Contexto
-- **Tendencias actuales:** Posicionamiento de dinero inteligente en España
-- **Contexto histórico:** No se presenta contexto histórico en el fragmento.
-- **Proyecciones futuras:** No se presentan proyecciones futuras en el fragmento.
+   ## 🔄 Red de Interacciones
+   - **Personajes principales:** Ibex 35, SP500, capital inteligente
+   - **Relaciones clave:** Comparación entre el Ibex 35 y el SP500 en términos de rendimiento.
+   - **Dinámica de interacción:** Análisis del mercado financiero y su rentabilidad.
 
 ### Fragmento 2
 ## 🧠 Ideas Principales
-- Rápido envejecimiento del país sin soluciones
-- Pobre seguridad jurídica y creciente intromisión del gobierno en las actividades empresariales
-- Gran peso del sector financiero en el índice Ibex 35 y su caída
-- Subidas de tipos y aumento del valor de lo presente respecto a las promesas de futuro
-- Inflación y beneficios elevados para las empresas energéticas
-- Barajar oportunidades en España y empresas interesantes para los grandes capitales internacionales
+- Rapido envejecimiento del pais sin medidas contra el mismo.
+- La clase politica no inspira mucha confianza y la seguridad juridica es pobre.
+- Intromisiones del gobierno en la actividad de las empresas ha provocado preocupaciones internacionales.
+- El Ibex 35 ha sido una buena inversión debido a su peso financiero y empresas maduras rentables.
+- La bolsa española sigue siendo interesante cuando ya no es tan barata.
 
 ## 🔑 Palabras Clave
 - Envejecimiento rápido
+- Clase política
 - Seguridad jurídica
 - Intromisión del gobierno
-- Sector financiero
 - Ibex 35
-- Subidas de tipos
-- Inflación
-- Empresas interesantes
-- Grandes capitales internacionales
+- Inversión
+- Mercados financieros
 
 ## 💬 Citas Destacadas
-> “Son cosas que en cierto modo pues también han provocado noticias como esta otra.”
-> “Hablamos de tres características muy concretas.”
-> “Pues amigos, a continuación vamos a echar un vistazo a dos compañías que podrían seguir estando en el radar de los grandes capitales internacionales.”
-> “Amigos, después de 5 años meteóricos, es muy posible que el gran rally español ya haya pasado.”
+> "Bruselas expedienta a España por la actuación del gobierno en la OPA de BBVA a Sabadel"
+> "El Ibex 35 lleva una rentabilidad total de casi el 25% en Euros y casi el 45% en Dólares"
 
 ## 🔢 Datos Numéricos
 | Métrica | Valor | Unidad | Contexto |
 |---------|-------|--------|----------|
-| Inflación | 4.82 | % | Cifra citada por el orador |
-| Ibex 35 en Euros (2025) | 25% | % | Rendimiento total del índice en 2025 en Euros |
-| Ibex 35 en Dólares (2025) | 45% | % | Rendimiento total del índice en 2025 en dólares |
+| Rendimiento del Ibex 35 en Euros (2025) | 24.7% | % | Basado en el rendimiento total de los bancos españoles y las empresas maduras que se encuentran en la bolsa española |
+| Rendimiento del Ibex 35 en Dólares (2025) | 44.7% | % | Basado en el rendimiento total de los bancos españoles y las empresas maduras que se encuentran en la bolsa española, considerando la divisa utilizada por los grandes capitales internacionales |
 
 ## 🎯 Momentos Destacados
-- Salida del mapa de España
-- Bolsa de Madrid y su índice Ibex 35
-- Bancos en la bolsa española
-- Empresas interesantes para los grandes capitales internacionales
-
-## 📈 Nivel de Profundidad
-- **Nivel:** Intermedio
-- **Motivo (≤ 30 palabras):** El orador analiza la situación actual de España y la influencia del sector financiero en la bolsa española.
-
-## 🏷️ Sesgo o Perfil
-- Perfil económico moderado
+- Envejecimiento del país rápido sin medidas para contrarrestarlo
+- Intromisión del gobierno en la actividad de las empresas
+- El Ibex 35 ha sido una buena inversión debido a su enorme peso en el sector financiero y sus empresas maduras
+- La pregunta es si la bolsa española sigue siendo interesante cuando ya no está tan barata
 
 ## 🔄 Red de Interacciones
-- **Personajes principales:** Orador, Ibex 35, sector financiero, bancos, empresas interesantes
-- **Relaciones clave:** Bolsa española y su índice Ibex 35, influencia del sector financiero en la economía española
-- **Dinámica de interacción:** Análisis de la situación actual de España y las tendencias en el mercado de valores español.
+- **Personajes principales:** Gobierno, BBVA, Sabadel
+- **Relaciones clave:** Actividad empresarial, gobierno, inversión extranjera
+- **Dinámica de interacción:** Debate sobre la rentabilidad y seguridad de la bolsa española
 
-### Fragmento 3
-## 🧠 Ideas Principales
-- Crecimiento económico de las compañías textil y fabricación de tubos sin soldadura.
-- Importancia del apellido Ortega en el sector textil.
-- Percepción diferente de la empresa Zara en distintos mercados.
-- Márgenes bruto y operativo altísimos de las compañías.
-- Objetivo anunciado de aumentar la Bidda de Tubacex hasta los 200,000 millones en 2027.
+## 🏷️ Sesgo o Perfil
+- Etiqueta: Especialista en economía y bolsa de valores con experiencia en la industria financiera española
 
-   ## 🔑 Palabras Clave
-- Crecimiento económico
-- Industria textil
-- Fabricación de tubos sin soldadura
-- Márgenes bruto y operativo
-- Bidda
-- Percepción diferente en distintos mercados
-- Empresa Zara
-- Ortega
+## 🔄 Red de Interacciones
+- **Personajes principales:** Gobierno, BBVA, Sabadel, Ibex 35
+- **Relaciones clave:** Actividad empresarial, gobierno, inversión extranjera, mercados financieros
+- **Dinámica de interacción:** Debate sobre la rentabilidad y seguridad de la bolsa española en el contexto actual
 
-   ## 💬 Citas Destacadas
-> “La compañía va francamente bien.”
-> “En España las vemos como marcas, como decirlo, del día a día, pero lo cierto es que en muchos mercados su percepción es completamente distinta. Están incluso cerca de lo que podríamos definir como lujo aspiracional.”
-> “Hablamos de un margen bruto del 56% y un margen operativo del 19,7, que la verdad no son disparatadas.”
-> “Si las cosas salen como parece que van a salir gracias, insisto, a esos pedidos que ya se han materializado, se espera que en 2027 su beneficio por acción toque los 50 céntimos.”
+## 🏛️ Autoridad y Credibilidad
+- **Credenciales mencionadas:** No se especifican credenciales en el fragmento.
+- **Referencias externas:** No se citan referencias externas en el fragmento.
+- **Nivel de fundamentación:** Bajo (No se presenta evidencia o datos para apoyar las afirmaciones)
 
-   ## 🔢 Datos Numéricos
-| Métrica | Valor | Unidad | Contexto |
-|---------|-------|--------|----------|
-| Ingresos Zara Group (2002 - 2024) | 3,000 a más de 38,600 millones de euros | Millones de euros | Cifra citada por el orador |
-| Beneficio operativo Zara Group (2002 - 2024) | 500 a 7,600 millones de euros | Millones de euros | Cifra citada por el orador |
-| Beneficio por acción Tubacex (2016 - 2027) | 60 a más de 50 céntimos | Millones de euros y céntimos | Calculado con datos proporcionados |
-| Bidda Tubacex (2024 - 2027) | 106 a 200,000 millones de euros | Millones de euros | Objectivo anunciado de la compañía |
+## 🌍 Impacto y Repercusiones
+- **Ámbito de influencia:** Nacional (se refiere a la situación en España)
+- **Actores afectados:** Gobierno, BBVA, Sabadel, inversores extranjeros
+- **Posibles consecuencias:** Corto plazo: preocupaciones internacionales; Mediano plazo: posible impacto en el rendimiento de la bolsa española; Largo plazo: posible disminución de las inversiones extranjeras en España
 
-   ## 🎯 Momentos Destacados
-- Crecimiento económico de las compañías textil y fabricación de tubos sin soldadura.
-- Importancia del apellido Ortega en el sector textil.
-- Percepción diferente de la empresa Zara en distintos mercados.
-- Márgenes bruto y operativo altísimos de las compañías.
-- Objetivo anunciado de aumentar la Bidda de Tubacex hasta los 200,000 millones en 2027.
-
-   ## 📈 Nivel de Profundidad
-- **Nivel:** Intermedio
-- **Motivo (≤ 30 palabras):** Análisis de la información proporcionada por el orador sobre las compañías Zara Group y Tubacex.
-
-   ## 🏷️ Sesgo o Perfil
-- Perfil: Inversor de bienes raíces y analista financiero.
-
-   ## 🔄 Red de Interacciones
-- **Personajes principales:** Zara Group, Tubacex, la familia Ortega.
-- **Relaciones clave:** Creación de empresas textil y fabricación de tubos sin soldadura.
-- **Dinámica de interacción:** Análisis económico y financiero de las compañías.
+## 📈 Tendencias y Contexto
+- **Tendencias actuales:** Debate sobre la rentabilidad y seguridad de la bolsa española
+- **Contexto histórico:** No se especifican referencias a eventos pasados.
+- **Proyecciones futuras:** Posible disminución de las inversiones extranjeras en España debido a las preocupaciones internacionales.
 
 
 
 ## Conclusiones Finales
 
-En resumen, el artículo analiza la posición potencialmente atractiva para los grandes inversores de dos empresas españolas: Zara Group y Tubacex. La primera, liderada por la familia Ortega, ha experimentado un gran crecimiento económico desde 2002, con ingresos aumentados de 3,000 a más de 38,600 millones de euros y beneficios operativos de 500 millones en 2002 a 7,600 millones en 2024. La compañía opera con márgenes altísimos y no tiene deuda. Por otro lado, Tubacex ha especializado en la fabricación de tubos sin soldadura de acero inoxidable y aleaciones de alto valor añadido para sectores críticos como el energético, el petroquímico y el aeroespacial. El objetivo anunciado es aumentar la Bidda de Tubacex hasta los 200,000 millones en 2027.
+En resumen, este análisis presenta dos compañías potencialmente interesantes para los inversores: Inditex y Tubacex. Inditex es una empresa líder en el sector textil con un crecimiento significativo desde 2002 hasta 2024, mientras que Tubacex es una compañía especializada en la fabricación de tubos de acero inoxidable sin soldadura, que ha triplicado su precio de acción durante los últimos cinco años gracias al proceso de fracking.
 
-   Los inversores internacionales deben tener en cuenta las características únicas de cada empresa y evaluar si son una buena oportunidad para su portafolio. Además, es importante considerar la situación actual del país y el sector financiero en España, que podría influir en la estrategia de inversión.
+   Los datos numéricos proporcionados sugieren una rentabilidad positiva tanto para Inditex como para Tubacex en los próximos años. En el caso de Inditex, se espera un aumento anual del 10% si cumple con sus proyecciones de crecimiento. Por otro lado, Tubacex está previsto que alcanzará una ganancia por acción de €0.50 en 2027, lo que implica un múltiple de más de siete veces los beneficios.
 
-   En conclusión, Zara Group y Tubacex son dos empresas interesantes para los grandes capitales internacionales debido a su crecimiento económico y sus márgenes bruto y operativo altísimos. Sin embargo, es importante tener en cuenta la situación actual del país y el sector financiero en España antes de tomar una decisión de inversión.
+   Además, se destaca la rentabilidad del Ibex 35 en comparación con el SP500 durante los últimos cinco años, con una rentabilidad total casi del 25% en Euros y casi el 45% en Dólares. Esto sugiere que la bolsa española sigue siendo interesante para los inversores, especialmente si ya no está tan barata.
+
+   Sin embargo, se menciona también algunas preocupaciones relacionadas con el gobierno y la seguridad jurídica en España, lo que podría afectar las inversiones extranjeras en el país. Por lo tanto, es importante tener en cuenta estos factores antes de decidir si invertir en cualquiera de las compañías analizadas.
